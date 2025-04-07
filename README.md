@@ -13,7 +13,7 @@ This project simulates a basic On-Board Data Handling (OBDH) system for a satell
 
 ## Graph Preview
 
-![Telemetry Graph](stellar_telemetry.png)
+![Telemetry Graph](assets/stellar_telemetry.png)
 
 ## Future Improvements
 
