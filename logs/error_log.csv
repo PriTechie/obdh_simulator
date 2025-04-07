@@ -1,0 +1,12 @@
+timestamp,parameter,value,issue
+2025-04-06 20:39:47,temperature,70.27,Out of range
+2025-04-06 20:39:48,pressure,978.04,Out of range
+2025-04-06 20:39:49,pressure,964.32,Out of range
+2025-04-06 20:39:50,temperature,69.76,Out of range
+2025-04-06 20:39:51,temperature,74.37,Out of range
+2025-04-06 20:39:51,pressure,953.76,Out of range
+2025-04-06 20:39:53,temperature,-23.2,Out of range
+2025-04-06 20:39:53,pressure,1041.28,Out of range
+2025-04-06 20:39:54,pressure,1033.54,Out of range
+2025-04-06 20:39:56,temperature,64.17,Out of range
+2025-04-06 20:39:56,pressure,1033.79,Out of range

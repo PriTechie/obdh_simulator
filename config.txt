@@ -1,0 +1,3 @@
+mode=low_power
+frequency=10
+temp_threshold=45
